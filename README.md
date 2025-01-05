@@ -1,4 +1,4 @@
-## Hi there <img src="https://github.com/goforbg/telegram-emoji-gifs/blob/master/wave.gif?raw=true" alt="icon of todo list" width="40" />
+### Всем привет <img src="https://github.com/goforbg/telegram-emoji-gifs/blob/master/wave.gif?raw=true" width="30">
 <!---
 <div align="center">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="500">
@@ -13,11 +13,11 @@
 <!--- ------------------------------------------------------------------------------------------------- -->
 
 
-# Проекты <img src="https://github.com/goforbg/telegram-emoji-gifs/blob/master/spider-crawl-folder.gif?raw=true" alt="icon of todo list" width="40" /> 
+### Проекты <img src="https://github.com/goforbg/telegram-emoji-gifs/blob/master/spider-crawl-folder.gif?raw=true" width="30"> 
 
 <details>
   <summary>Развернуть</summary>
- <br>
+<br>
 
 | Проекты | Развернутая Ссылка | Репозиторий | Технологический Стек и инструменты |
 |:---------|:-------------:|:----------:|:-------------------|
@@ -33,11 +33,10 @@
 <!--- -- Skills Section ------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------- -->
 
-# Навыки <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
-
+### Навыки <img src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" width="30">
 <details>
-  <summary>Развернуть</summary>
- <br> 
+  <summary>Развернуть</summary> 
+<br>
 
 | Категория        | Навыки        |
 |-----------------|---------------|
