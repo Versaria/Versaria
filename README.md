@@ -4,66 +4,65 @@
 <!--- -- QA Engineer ---------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------- -->
 
-<!---  <img src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" width="30"> -->
-
-
 # <img src="https://github.com/goforbg/telegram-emoji-gifs/blob/master/wave.gif?raw=true" width="30"> Привет, я Ольга - QA Engineer
 
-## <img src="https://github.com/goforbg/telegram-emoji-gifs/blob/master/girl-with-laptop.gif#:~:text=girl%2Dwith%2D-,laptop.gif" width="30"> Обо мне
+## <img src="https://github.com/goforbg/telegram-emoji-gifs/blob/master/girl-with-laptop.gif" width="30"> Обо мне
 
-Я инженер по тестированию программного обеспечения с фокусом на создание качественных продуктов. Прошла профессиональную переподготовку по программе **"Инженер по тестированию: от новичка до автоматизатора"** в Яндекс Практикуме, где освоила полный цикл тестирования: от ручного тестирования до автоматизации на Java.
+Я инженер по тестированию программного обеспечения с фокусом на создание качественных продуктов. Прошла профессиональную переподготовку по программе **"Инженер по тестированию: от новичка до автоматизатора"** в Яндекс Практикуме.
 
 [![Диплом Яндекс Практикум](https://img.shields.io/badge/📜_Посмотреть_диплом-2CA5E0?style=for-the-badge)](https://disk.yandex.ru/i/Gjq-FvI1Nf-qiA)
 
-Мой путь в IT начался с интереса к детальному анализу и улучшению пользовательского опыта, что идеально совпало с принципами тестирования. Мне нравится находить баланс между тщательным ручным тестированием и эффективной автоматизацией.
+**Мои сильные стороны:**
+- Аналитическое мышление и внимание к деталям
+- Технические навыки в автоматизации на Java
+- Системный подход к тест-дизайну
+- Понимание процессов разработки и командной работы
 
 ## 🛠 Технологии и инструменты
 
-**Автоматизация тестирования:**
-- `Java` `Selenium WebDriver` `JUnit` `REST Assured` `Allure Reports`
-- `Page Object Pattern` `Maven` `Git`
+**Автоматизация тестирования:**  
+`Java` `Selenium WebDriver` `JUnit` `REST Assured` `Allure Reports` `Page Object Pattern` `Maven` `Git`
 
-**Ручное тестирование:**
-- `Функциональное тестирование` `Регрессионное тестирование` `Тест-дизайн`
-- `API Testing` `Mobile Testing` `Cross-browser testing`
+**Ручное тестирование:**  
+`Функциональное тестирование` `Регрессионное тестирование` `API Testing` `Mobile Testing` `Cross-browser testing` `Тест-дизайн`
 
-**Инструменты:**
-- `Postman` `Chrome DevTools` `Android Studio` `Charles`
-- `Figma` `SQL` `GitHub` `Test Case Management`
+**Инструменты:**  
+`Postman` `Chrome DevTools` `Android Studio` `Charles` `Figma` `SQL` `GitHub` `Test Case Management`
 
 ## 📈 Статус поиска
 
-**Открыта для предложений**
-- Удалённая работа
-- Гибкий график
+**🎯 Открыта для предложений**  
+- Удалённая работа  
+- Гибкий график  
+- Готова к интересным проектам
 
-## <img src="https://github.com/goforbg/telegram-emoji-gifs/blob/master/mail-box.gif#:~:text=mail%2D-,box.gif" width="30"> Как со мной связаться
+## <img src="https://github.com/goforbg/telegram-emoji-gifs/blob/master/mail-box.gif" width="30"> Контакты
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/versaria)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/versaria)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:steep.evropa@mail.ru)
 
-## <img src="https://github.com/goforbg/telegram-emoji-gifs/blob/master/spider-crawl-folder.gif?raw=true" width="30"> Ключевые проекты
+## <img src="https://github.com/goforbg/telegram-emoji-gifs/blob/master/spider-crawl-folder.gif" width="30"> Ключевые проекты
 
-### 🤖 Автоматизированное тестирование
-- **[Stellar Burgers](ссылка)** - Полная автоматизация UI и API тестов (Дипломный проект)
-- **[Yandex Samokat](ссылка)** - Автотесты веб-интерфейса и REST API
-- **[Unit Testing](ссылка)** - Юнит-тесты и продвинутые Java-методы
- 
-### <img src="https://github.com/goforbg/telegram-emoji-gifs/blob/master/magnify-right.gif#:~:text=magnify%2D-,right.gif" width="30"> Ручное тестирование
-- **[Yandex Routes](ссылка)** - Тестирование веб-форм и фронтенда
-- **[Mobile Testing](ссылка)** - Тестирование мобильных приложений
-- **[API Testing](ссылка)** - Тестирование REST API сервисов
+### 🤖 **Автоматизированное тестирование**
+- **[Stellar Burgers](https://github.com/Versaria/stellar-burgers)** - Полная автоматизация UI и API тестов
+- **[Yandex Samokat](https://github.com/Versaria/yandex-samokat)** - Автотесты веб-интерфейса и REST API
+- **[Java Unit Tests](https://github.com/Versaria/java-unit-tests)** - Юнит-тесты и продвинутые Java-методы
+
+### <img src="https://github.com/goforbg/telegram-emoji-gifs/blob/master/magnify-right.gif" width="30"> **Ручное тестирование**
+- **[Yandex Routes](https://github.com/Versaria/yandex-routes)** - Тестирование веб-форм и фронтенда
+- **[Mobile Testing](https://github.com/Versaria/mobile-testing)** - Тестирование мобильных приложений
+- **[API Testing](https://github.com/Versaria/api-testing)** - Тестирование REST API сервисов
 
 ## 📊 Статистика GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Versaria&show_icons=true&theme=default)
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Versaria&show_icons=true&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Versaria&layout=compact&theme=default&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Versaria&layout=compact)
+</div>
 
 ---
 
-⭐ *"Quality is not an act, it is a habit."* - Aristotle
-
-## 🏆 Достижения
+> ⭐ *"Качество — это не действие, это привычка."* — Аристотель
 
