@@ -1,79 +1,69 @@
-### Всем привет <img src="https://github.com/goforbg/telegram-emoji-gifs/blob/master/wave.gif?raw=true" width="30">
-<!---
-<div align="center">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="500">
-<br><br>
-</div>
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
--->
+![QA Automation Engineer Banner](https://s291klg.storage.yandex.net/rdisk/604e1d6d14b78a5cbb773c5942fa47f6125acbd5324d29cf608563e4afa033e6/691e6866/UFEXO4fNUncb0ALacLgtkvw2eWk5WuJZ8uwNQ3ndgJNYpHdxRQhAt7I2V-D-uj5SbIFXXrmR_Iy3OgsfabhSRg==?uid=280793520&filename=Снимок%20экрана%202025-11-20%20в%2000.00.57.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=280793520&fsize=133791&hid=2478df9accc35c8c24f4286d8d76f30e&media_type=image&tknv=v3&etag=64128a45fdc53a09f60b7de19fd722f0&ts=643fc3c7e6580&s=d60fd5759c0a48b26ac5718af2003540cc916533135db8ffdec7e0bf7f312666&pb=U2FsdGVkX1_6aP1ADBpV2bEexuvSFETwJNnuFtRfYTvjyGd7e-Fowbu0wk-zgQ9FG_C0iLYbB_tLLcxv329ecCWarOoTXEpyYYOujreCBZw)
 
 <!--- ------------------------------------------------------------------------------------------------- -->
-<!--- -- Projects Section ----------------------------------------------------------------------------- -->
+<!--- -- QA Engineer ---------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------- -->
 
-
-### Проекты <img src="https://github.com/goforbg/telegram-emoji-gifs/blob/master/spider-crawl-folder.gif?raw=true" width="30"> 
-
-<details>
-  <summary>Развернуть</summary>
-<br>
-
-| Проекты | Развернутая Ссылка | Репозиторий | Технологический Стек и инструменты |
-|:---------|:-------------:|:----------:|:-------------------|
-| 1. Приложение Яндекс Маршруты | [вид, веб-сайт](https://qa-routes.praktikum-services.ru/) | [вид](https://github.com/Versaria/Yandeks-Marshruty/) | `MindMap` `Тест-анализ` `Тест-дизайн` `Чек-листы` `Тест-кейсы` `Баг-репорты` | 
-| 2. Приложение Яндекс Маршруты | [вид, сервер](https://514ccc39-4a8e-494e-a039-39d6fe495cef.serverhub.praktikum-services.ru) | [вид](https://) | `DevTools` `Charles Proxy` `Figma` `YouTrack` | 
-| 3. Приложение Яндекс Метро | [вид, сборка](https://code.s3.yandex.net/qa/files/yandexmetro-android-v3.6.apk) | [вид](https://) | `Android Studio` `Сharles` `Figma` `YouTrack` | 
-| 4. Приложение Яндекс Прилавок | [вид, сервер](https://f6c2e99a-3fc1-4f28-9cc1-2f8e73557ce2.serverhub.praktikum-services.ru") | [вид](https://) | `REST` `HTTP` `JSON` `Postman` `cURL` `SOAP` `XML` `XSD` `SOAP` `WSDL` `Black` `White` `Gray Box` | 
-| 5. Приложение Яндекс Самокат | [вид](https://) | [вид](https://) | `-` | 
-
-</details>
-
-<!--- ------------------------------------------------------------------------------------------------- -->
-<!--- -- Skills Section ------------------------------------------------------------------------------- -->
-<!--- ------------------------------------------------------------------------------------------------- -->
-
-### Навыки <img src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" width="30">
-<details>
-  <summary>Развернуть</summary> 
-<br>
-
-| Категория        | Навыки        |
-|-----------------|---------------|
-| Фреймворки | `Selenide` `JUnit` `Jenkins` `Selenium WebDriver` `Pytest` `Pytest` `PyCharm` |
-| Языки | `Java` `Python` |
-| Стиль и Фреймворки | `HTML` `CSS` `JSON` `XML` `XSD` |
-| База данных | `SQL` |
-| Услуги и инструменты | `GitHub` `Git` |
-| Управления проектами | `Test IT` `YouTrack` `Яндекс Трекер` |
-| IDE и окружающая среда | `Android Studio` `IntelliJ IDEA` `REST Assured` `Maven` `Selenium WebDriver` |
-| Инструменты отладки | `Charles Proxy` `DevTools` |
-| API - интерфейсы | `Postman` `Charles Proxy` `apiDoc` `Swagger` `XPath` |
-| Инструменты проектирования | `Figma` `MindMap` |
-| Обучение | - |
-
-</details>
-<!---
-<details>
-  <summary>Развернуть</summary>
- <br>
-</details> 
--->
+<!---  <img src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" width="30"> -->
 
 
-<!--
-# Projects <img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-abb5-88b334cf64ea.png" alt="icon of todo list" width="40" />
+# <img src="https://github.com/goforbg/telegram-emoji-gifs/blob/master/wave.gif?raw=true" width="30"> Привет, я Ольга - QA Engineer
 
-**Versaria/Versaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## <img src="https://github.com/goforbg/telegram-emoji-gifs/blob/master/girl-with-laptop.gif#:~:text=girl%2Dwith%2D-,laptop.gif" width="30"> Обо мне
 
-Here are some ideas to get you started:
+Я инженер по тестированию программного обеспечения с фокусом на создание качественных продуктов. Прошла профессиональную переподготовку по программе **"Инженер по тестированию: от новичка до автоматизатора"** в Яндекс Практикуме, где освоила полный цикл тестирования: от ручного тестирования до автоматизации на Java.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Диплом Яндекс Практикум](https://img.shields.io/badge/📜_Посмотреть_диплом-2CA5E0?style=for-the-badge)](https://disk.yandex.ru/i/Gjq-FvI1Nf-qiA)
+
+Мой путь в IT начался с интереса к детальному анализу и улучшению пользовательского опыта, что идеально совпало с принципами тестирования. Мне нравится находить баланс между тщательным ручным тестированием и эффективной автоматизацией.
+
+## 🛠 Технологии и инструменты
+
+**Автоматизация тестирования:**
+- `Java` `Selenium WebDriver` `JUnit` `REST Assured` `Allure Reports`
+- `Page Object Pattern` `Maven` `Git`
+
+**Ручное тестирование:**
+- `Функциональное тестирование` `Регрессионное тестирование` `Тест-дизайн`
+- `API Testing` `Mobile Testing` `Cross-browser testing`
+
+**Инструменты:**
+- `Postman` `Chrome DevTools` `Android Studio` `Charles`
+- `Figma` `SQL` `GitHub` `Test Case Management`
+
+## 📈 Статус поиска
+
+**Открыта для предложений**
+- Удалённая работа
+- Гибкий график
+
+## <img src="https://github.com/goforbg/telegram-emoji-gifs/blob/master/mail-box.gif#:~:text=mail%2D-,box.gif" width="30"> Как со мной связаться
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/versaria)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/versaria)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:steep.evropa@mail.ru)
+
+## <img src="https://github.com/goforbg/telegram-emoji-gifs/blob/master/spider-crawl-folder.gif?raw=true" width="30"> Ключевые проекты
+
+### 🤖 Автоматизированное тестирование
+- **[Stellar Burgers](ссылка)** - Полная автоматизация UI и API тестов (Дипломный проект)
+- **[Yandex Samokat](ссылка)** - Автотесты веб-интерфейса и REST API
+- **[Unit Testing](ссылка)** - Юнит-тесты и продвинутые Java-методы
+ 
+### <img src="https://github.com/goforbg/telegram-emoji-gifs/blob/master/magnify-right.gif#:~:text=magnify%2D-,right.gif" width="30"> Ручное тестирование
+- **[Yandex Routes](ссылка)** - Тестирование веб-форм и фронтенда
+- **[Mobile Testing](ссылка)** - Тестирование мобильных приложений
+- **[API Testing](ссылка)** - Тестирование REST API сервисов
+
+## 📊 Статистика GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Versaria&show_icons=true&theme=default)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Versaria&layout=compact)
+
+---
+
+⭐ *"Quality is not an act, it is a habit."* - Aristotle
+
+## 🏆 Достижения
+
